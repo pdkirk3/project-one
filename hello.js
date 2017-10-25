@@ -1,2 +1,2 @@
 console.log("Hello World!");
-//The stars at night, all big and bright
+//When time stands still, and you never stay ill
